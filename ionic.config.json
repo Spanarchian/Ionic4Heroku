@@ -1,0 +1,8 @@
+{
+  "name": "AQOH_APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "57c5e541"
+}
